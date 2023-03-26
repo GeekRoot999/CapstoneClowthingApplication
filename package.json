@@ -1,6 +1,5 @@
 {
   "name": "cloth-application",
-  "homepage": "https://GeekRoot999.github.io/TodoApplication",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
